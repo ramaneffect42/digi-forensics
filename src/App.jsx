@@ -53,7 +53,7 @@ export default function App() {
 
         {/* Footer */}
         <p className="mt-8 text-sm text-slate-400">
-          © {new Date().getFullYear()} Turbo. All rights reserved.
+          © {new Date().getFullYear()} ArrowDev. All rights reserved.
         </p>
 
         <p className="mt-2 text-sm text-slate-400">
